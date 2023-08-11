@@ -11,12 +11,14 @@
  Target Server Version : 50734
  File Encoding         : 65001
 
- Date: 08/05/2021 23:30:58
+ Date: 08/05/2023 23:30:58
 */
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
+create database auth ;
+use auth ;
 -- ----------------------------
 -- Table structure for article
 -- ----------------------------
