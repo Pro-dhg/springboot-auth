@@ -40,3 +40,11 @@ npm i
 npm run dev
 npm run build
 ```
+
+
+
+## 前端展示
+
+![登陆页面](img/login.png)
+![用户列表](img/user.png)
+![权限管理](img/auth.png)
