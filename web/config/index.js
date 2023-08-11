@@ -28,10 +28,9 @@ module.exports = {
     autoOpenPage: '/login',
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    // 现更改为nginx处理跨域问题 --段哥哥到此一游
     // proxyTable: {
     //   '/api': {
-    //     target: 'http://192.168.11.35:8080',
+    //     target: 'http://localhost:8080',
     //     pathRewrite: {
     //       '^/api': '/'
     //     }
