@@ -2,6 +2,7 @@
 提供一套后端权限系统，根据 https://github.com/Heeexy/SpringBoot-Shiro-Vue.git 修改
 并提供打镜像与学习窗口
 
+在线体验网址：http://prodhg.top
 
 
 - 打镜像
